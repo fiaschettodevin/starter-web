@@ -3,12 +3,16 @@
 Example for git
 
 ## Introduction
-Adding extra stuff
 
+Adding extra stuff
 
 ## Purpose
 
+Adding purpose
+
 ## Deployment
+
+Add deployment
 
 ## How to Contribute
 
