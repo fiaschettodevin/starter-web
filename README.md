@@ -3,6 +3,8 @@
 Example for git
 
 ## Introduction
+Adding extra stuff
+
 
 ## Purpose
 
