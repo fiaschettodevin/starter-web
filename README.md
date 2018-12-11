@@ -6,6 +6,7 @@ Example for git
 
 Adding extra stuff.
 Adding more text
+Adding more text
 
 ## Purpose
 
