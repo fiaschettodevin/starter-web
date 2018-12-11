@@ -4,7 +4,8 @@ Example for git
 
 ## Introduction
 
-Adding extra stuff
+Adding extra stuff.
+Adding more text
 
 ## Purpose
 
