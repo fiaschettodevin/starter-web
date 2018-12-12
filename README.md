@@ -1,6 +1,7 @@
 # Starter Web Project
 
 Example for git
+AAABBBCCC
 
 ## Introduction
 
