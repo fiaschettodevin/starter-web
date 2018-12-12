@@ -20,3 +20,5 @@ Add deployment
 bla bla bla
 
 ### Copyright
+
+All rights reserved
